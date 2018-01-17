@@ -1,7 +1,7 @@
-## Project: Multimedia Computing
-
+# Project: Multimedia Computing
+## HUFFMAN CODING
 ---
-Project Struct:
+#### Project Struct:
 
 ![multi_1](https://user-images.githubusercontent.com/16191939/35038765-5a127e2c-fbae-11e7-91f0-efa9e5e7a863.PNG)
 
