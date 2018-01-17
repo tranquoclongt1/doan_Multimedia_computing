@@ -7,6 +7,8 @@ Project Struct:
 
 And let's see what we've defined for a tree inneed:
 
+![capture](https://user-images.githubusercontent.com/16191939/35038924-e31eed54-fbae-11e7-8b1c-094cc69fb65a.PNG)
+
 ---
 ### Theory:
 #### 1. Huffmancoding: 
