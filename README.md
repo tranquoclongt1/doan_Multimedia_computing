@@ -1,5 +1,9 @@
 # Project: Multimedia Computing
 ## HUFFMAN CODING
+How to run:
+python HuffmanCompress.py InputFile OutputFile
+python HuffmanDecompress.py InputFile OutputFile
+Ex: python HuffmanCompress test1.txt compress1.txt
 ---
 #### Project Struct:
 
